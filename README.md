@@ -3,9 +3,9 @@
 A Streamlit app that predicts landslide susceptibility from terrain,
 rainfall, soil and land-cover characteristics.
 
-## Live app
+## 🌐 Live App
 
-<!-- paste your Streamlit Cloud URL here after deploying -->
+**[Click here to access the Landslide Susceptibility Prediction System](https://zcayloyq5nueccqsxuzhzf.streamlit.app/)**
 
 ## Model
 
